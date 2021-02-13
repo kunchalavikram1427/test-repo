@@ -1,2 +1,5 @@
 My Sixth File
 Modified file6 in feature-01
+a=1
+b=1
+c=1
